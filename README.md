@@ -2,7 +2,7 @@
 
 The best articles and videos about game development, curated by obsessive indie game developer Matt Hackett.
 
-http://website.com
+http://www.bestofgamedev.com
 
 ## Setup
 

@@ -9,7 +9,8 @@ Metalsmith(__dirname)
 		title: "Best of Game Dev",
 		description: "The best articles and videos about game development, curated by obsessive indie game developer Matt Hackett.",
 		generator: "Metalsmith",
-		url: "http://www.metalsmith.io/"
+		url: "http://www.bestofgamedev.com",
+		date: new Date()
 	})
 	.source("./src")
 	.destination("./build")

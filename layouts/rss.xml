@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>{{title}}</title>
+	<link href="{{url}}/rss.xml" rel="self"/>
+	<link href="{{url}}"/>
+	<updated>{{date}}</updated>
+	<id>http://www.bestofgamedev.com</id>
+	<author>
+		<name>Matt Hackett</name>
+		<email>matt@lostdecadegames.com</email>
+	</author>
+
+	{{#each this.posts}}
+
+	<entry>
+		<title>{{this.title}}</title>
+		<link href="{{url}}{{this.path}}"/>
+		<updated>{{this.date}}</updated>
+		<id>{{url}}{{this.path}}</id>
+		<content type="html">{{this.contentURLs.[0]}}</content>
+	</entry>
+
+	{{/each}}
+
+</feed>
