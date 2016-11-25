@@ -1,8 +1,9 @@
 ---
 title: There and Back Again - A Metroidvania Tale
 date: 2016-11-24
-layout: post.html
+image: there-and-back-again.jpg
 tags: [video, design, production]
+layout: post.html
 
 contentAuthor: Koji Igarashi
 contentDate: 2014-03-17
