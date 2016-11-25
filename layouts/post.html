@@ -1,45 +1,37 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<title>{{title}}</title>
-		<meta name="description" content="{{description}}">
-	</head>
-	<body>
+{{> header}}
 
-		<h1>{{title}}</h1>
-		<time>{{formatDate date}}</time>
+<h1>{{title}}</h1>
+<time>{{formatDate date}}</time>
 
-		<img alt="{{title}}" src="../../media/posts/{{this.image}}">
+<img alt="{{title}}" src="../../media/posts/{{this.image}}">
 
-		<div>
-		{{{contents}}}
-		</div>
+<div>
+{{{contents}}}
+</div>
 
-		<div>
-			<p>
-				originally published {{formatDate this.contentDate}}
-				by {{this.contentAuthor}}
-			</p>
+<div>
+	<p>
+		originally published {{formatDate this.contentDate}}
+		by {{this.contentAuthor}}
+	</p>
 
-			<ul>
-			{{#each this.contentURLs}}
-				<li><a href="{{this}}">{{this}}</a></li>
-			{{/each}}
-			</ul>
-		</div>
+	<ul>
+	{{#each this.contentURLs}}
+		<li><a href="{{this}}">{{this}}</a></li>
+	{{/each}}
+	</ul>
+</div>
 
-		{{#if this.previous.path}}
-		<p>
-			<a href="../../{{this.previous.path}}">Previous: {{this.previous.title}}</a>
-		</p>
-		{{/if}}
+{{#if this.previous.path}}
+<p>
+	<a href="../../{{this.previous.path}}">Previous: {{this.previous.title}}</a>
+</p>
+{{/if}}
 
-		{{#if this.next.path }}
-		<p>
-			<a href="../../{{this.next.path}}">Next: {{this.next.title}}</a>
-		</p>
-		{{/if}}
+{{#if this.next.path }}
+<p>
+	<a href="../../{{this.next.path}}">Next: {{this.next.title}}</a>
+</p>
+{{/if}}
 
-	</body>
-</html>
+{{> footer}}

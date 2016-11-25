@@ -1,32 +1,32 @@
 {{> header}}
 
-		{{#each this.posts}}
+{{#each this.posts}}
 
-		<hr>
-		<div>
-			<img alt="{{this.title}}" src="./media/posts/{{this.image}}">
-			<h3><a href="{{this.path}}">{{this.title}}</a></h3>
-			<p>{{formatDate this.date}}</p>
+	<hr>
+	<div>
+		<img alt="{{this.title}}" src="./media/posts/{{this.image}}">
+		<h3><a href="{{this.path}}">{{this.title}}</a></h3>
+		<p>{{formatDate this.date}}</p>
 
-			<ul>
-			{{#each this.tags}}
-				<li>{{this}}</li>
-			{{/each}}
-			</ul>
-
-			<p>
-				originally published {{this.contentDate}}
-				by {{this.contentAuthor}}
-			</p>
-
-			<ul>
-			{{#each this.contentURLs}}
-				<li><a href="{{this}}">{{this}}</a></li>
-			{{/each}}
-			</ul>
-
-		</div>
-
+		<ul>
+		{{#each this.tags}}
+			<li>{{this}}</li>
 		{{/each}}
+		</ul>
+
+		<p>
+			originally published {{formatDate this.contentDate}}
+			by {{this.contentAuthor}}
+		</p>
+
+		<ul>
+		{{#each this.contentURLs}}
+			<li><a href="{{this}}">{{this}}</a></li>
+		{{/each}}
+		</ul>
+
+	</div>
+
+{{/each}}
 
 {{> footer}}

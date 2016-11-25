@@ -30,9 +30,8 @@ handlebars.registerPartial("footer", footerContents)
 
 Metalsmith(__dirname)
 	.metadata({
-		title: "Best of Game Dev",
+		siteName: "Best of Game Dev",
 		description: "The best articles and videos about game development, curated by obsessive indie game developer Matt Hackett.",
-		generator: "Metalsmith",
 		url: URL,
 		date: new Date()
 	})
@@ -40,7 +39,11 @@ Metalsmith(__dirname)
 	.destination("./build")
 	.clean(false)
 	.use(collections({
-		posts: "post/*.md"
+		posts: {
+			pattern: "post/*.md",
+			sortBy: "date",
+			reverse: true
+		}
 	}))
 	.use(markdown())
 	.use(permalinks())
