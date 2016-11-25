@@ -3,6 +3,13 @@ var collections = require("metalsmith-collections");
 var markdown = require("metalsmith-markdown");
 var layouts = require("metalsmith-layouts");
 var permalinks = require("metalsmith-permalinks");
+var handlebars = require("handlebars");
+var moment = require("moment");
+
+handlebars.registerHelper("formatDate", function (date) {
+	var mom = moment(date);
+	return mom.format("MMM D, Y");
+});
 
 Metalsmith(__dirname)
 	.metadata({

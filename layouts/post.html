@@ -8,7 +8,7 @@
 	<body>
 
 		<h1>{{title}}</h1>
-		<time>{{date}}</time>
+		<time>{{formatDate date}}</time>
 
 		<img alt="{{title}}" src="../../media/posts/{{this.image}}">
 
@@ -18,7 +18,7 @@
 
 		<div>
 			<p>
-				originally published {{this.contentDate}}
+				originally published {{formatDate this.contentDate}}
 				by {{this.contentAuthor}}
 			</p>
 

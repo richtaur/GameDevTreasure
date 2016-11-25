@@ -17,7 +17,7 @@
 		<div>
 			<img alt="{{this.title}}" src="./media/posts/{{this.image}}">
 			<h3><a href="{{this.path}}">{{this.title}}</a></h3>
-			<p>{{this.date}}</p>
+			<p>{{formatDate this.date}}</p>
 
 			<ul>
 			{{#each this.tags}}
