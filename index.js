@@ -6,9 +6,15 @@ var permalinks = require("metalsmith-permalinks");
 var handlebars = require("handlebars");
 var moment = require("moment");
 
+const URL = "http://www.bestofgamedev.com";
+
 handlebars.registerHelper("formatDate", function (date) {
 	var mom = moment(date);
 	return mom.format("MMM D, Y");
+});
+
+handlebars.registerHelper("link", function (path) {
+	return URL + "/" + path;
 });
 
 Metalsmith(__dirname)
@@ -16,7 +22,7 @@ Metalsmith(__dirname)
 		title: "Best of Game Dev",
 		description: "The best articles and videos about game development, curated by obsessive indie game developer Matt Hackett.",
 		generator: "Metalsmith",
-		url: "http://www.bestofgamedev.com",
+		url: URL,
 		date: new Date()
 	})
 	.source("./src")

@@ -2,8 +2,8 @@
 title: Evaluating Game Mechanics For Depth
 date: 2016-11-24
 image: evaluating-game-mechanics-for-depth.jpg
-layout: post.html
 tags: [article, design]
+layout: post.html
 
 contentAuthor: Mike Stout
 contentDate: 2010-07-21

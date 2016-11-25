@@ -14,10 +14,10 @@
 
 	<entry>
 		<title>{{this.title}}</title>
-		<link href="{{url}}{{this.path}}"/>
+		<link href="{{link this.path}}"/>
 		<updated>{{this.date}}</updated>
-		<id>{{url}}{{this.path}}</id>
-		<content type="html">{{this.contentURLs.[0]}}</content>
+		<id>{{link this.path}}</id>
+		<content type="html">{{this.contents}}</content>
 	</entry>
 
 	{{/each}}
