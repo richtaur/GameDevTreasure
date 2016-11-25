@@ -5,17 +5,28 @@ var layouts = require("metalsmith-layouts");
 var permalinks = require("metalsmith-permalinks");
 var handlebars = require("handlebars");
 var moment = require("moment");
+var fs = require("fs");
 
 const URL = "http://www.bestofgamedev.com";
 
+// Helper: formatDate
 handlebars.registerHelper("formatDate", function (date) {
 	var mom = moment(date);
 	return mom.format("MMM D, Y");
 });
 
+// Helper: link
 handlebars.registerHelper("link", function (path) {
 	return URL + "/" + path;
 });
+
+// Partial: header
+var headerContents = fs.readFileSync("layouts/header.html", "utf8");
+handlebars.registerPartial("header", headerContents)
+
+// Partial: footer
+var footerContents = fs.readFileSync("layouts/footer.html", "utf8");
+handlebars.registerPartial("footer", footerContents)
 
 Metalsmith(__dirname)
 	.metadata({
