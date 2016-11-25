@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>{{title}}</title>
+		<meta name="description" content="{{description}}">
+	</head>
+	<body>
+
+		<h1>{{title}}</h1>
+		<time>{{date}}</time>
+
+		<div>
+		{{{contents}}}
+		</div>
+
+		<div>
+			<p>
+				originally published {{this.contentDate}}
+				by {{this.contentAuthor}}
+			</p>
+
+			<ul>
+			{{#each this.contentURLs}}
+				<li><a href="{{this}}">{{this}}</a></li>
+			{{/each}}
+			</ul>
+		</div>
+
+		{{#if this.previous.path}}
+		<p>
+			<a href="../../{{this.previous.path}}">Previous: {{this.previous.title}}</a>
+		</p>
+		{{/if}}
+
+		{{#if this.next.path }}
+		<p>
+			<a href="../../{{this.next.path}}">Next: {{this.next.title}}</a>
+		</p>
+		{{/if}}
+
+	</body>
+</html>
