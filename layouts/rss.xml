@@ -4,22 +4,18 @@
 	<link href="{{url}}/rss.xml" rel="self"/>
 	<link href="{{url}}"/>
 	<updated>{{date}}</updated>
-	<id>http://www.bestofgamedev.com</id>
+	<id>{{url}}</id>
 	<author>
 		<name>Matt Hackett</name>
 		<email>matt@lostdecadegames.com</email>
 	</author>
-
 	{{#each this.posts}}
-
-	<entry>
-		<title>{{this.title}}</title>
-		<link href="{{link this.path}}"/>
-		<updated>{{this.date}}</updated>
-		<id>{{link this.path}}</id>
-		<content type="html">{{this.contents}}</content>
-	</entry>
-
+		<entry>
+			<title>{{this.title}}</title>
+			<link href="{{link this.path}}"/>
+			<updated>{{this.date}}</updated>
+			<id>{{link this.path}}</id>
+			<content type="html">{{this.contents}}</content>
+		</entry>
 	{{/each}}
-
 </feed>

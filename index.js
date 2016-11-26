@@ -7,7 +7,7 @@ var handlebars = require("handlebars");
 var moment = require("moment");
 var fs = require("fs");
 
-const URL = "http://www.bestofgamedev.com";
+const URL = "http://www.gamedevtreasure.com";
 
 // Helper: formatDate
 handlebars.registerHelper("formatDate", function (date) {
@@ -30,7 +30,7 @@ handlebars.registerPartial("footer", footerContents)
 
 Metalsmith(__dirname)
 	.metadata({
-		siteName: "Best of Game Dev",
+		siteName: "Game Dev Treasure",
 		description: "The best articles and videos about game development, curated by obsessive indie game developer Matt Hackett.",
 		url: URL,
 		date: new Date()
