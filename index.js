@@ -7,7 +7,7 @@ var handlebars = require("handlebars");
 var moment = require("moment");
 var fs = require("fs");
 
-const URL = "http://www.gamedevtreasure.com";
+const URL = "http://www.gamedevtreasure.com/";
 
 // Helper: extractDomain
 handlebars.registerHelper("extractDomain", function (url) {
@@ -24,9 +24,16 @@ handlebars.registerHelper("formatDate", function (date) {
 	return mom.format("MMM D, Y");
 });
 
+// Helper: formatDateRSS
+handlebars.registerHelper("formatDateRSS", function (date) {
+	var mom = moment(date);
+	return mom.format("Y-MM-DDTHH:mm:ssZ");
+});
+
+
 // Helper: link
 handlebars.registerHelper("link", function (path) {
-	return URL + "/" + path;
+	return URL + path;
 });
 
 // Partial: header

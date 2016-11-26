@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>{{siteName}}</title>
-	<link href="{{url}}/rss.xml" rel="self"/>
+	<link href="{{url}}rss.xml" rel="self"/>
 	<link href="{{url}}"/>
-	<updated>{{date}}</updated>
+	<updated>{{formatDateRSS date}}</updated>
 	<id>{{url}}</id>
 	<author>
 		<name>Matt Hackett</name>
@@ -13,7 +13,7 @@
 		<entry>
 			<title>{{this.title}}</title>
 			<link href="{{link this.path}}"/>
-			<updated>{{this.date}}</updated>
+			<updated>{{formatDateRSS this.date}}</updated>
 			<id>{{link this.path}}</id>
 			<content type="html">{{this.contents}}</content>
 		</entry>

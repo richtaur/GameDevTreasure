@@ -10,4 +10,4 @@ contentDate: 2016-08-10
 contentURLs: [http://www.fortressofdoors.com/oil-it-or-spoil-it/, http://www.gamasutra.com/blogs/LarsDoucet/20160810/279009/Oil_it_or_Spoil_it.php]
 ---
 
-An extension of Juice it or Lose It, but instead of juice, offers tips on removing pain points from gameplay.
+An extension of "Juice It or Lose It", but instead of juice, offers tips on removing pain points from gameplay.
