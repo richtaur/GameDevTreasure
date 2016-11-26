@@ -1,0 +1,59 @@
+html, body, h1, h2, p, ul, li {
+	font-size: 20px;
+
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: rgb(89, 125, 206); /* blue */
+	background: rgb(109, 194, 202); /* teal */
+	background: rgb(222, 238, 214); /* white */
+	color: rgb(20, 12, 28); /* black */
+	text-align: center;
+}
+
+#header {
+	margin-bottom: 2em;
+}
+
+h1 {
+	margin-bottom: 1em;
+}
+
+#contents {
+	margin: auto;
+	width: 1000px;
+}
+
+.date {
+	color: rgb(78, 74, 78); /* gray */
+	font-size: 75%;
+}
+
+.post {
+	border: 1px solid red;
+	margin-bottom: 2em;
+	text-align: left;
+}
+
+.post img {
+	float: left;
+	margin-right: 1em;
+}
+
+.post .date {
+	margin-bottom: 1em;
+}
+
+.tags {
+	margin-bottom: 1em;
+}
+
+.tags li {
+	display: inline;
+}
+
+#footer {
+}

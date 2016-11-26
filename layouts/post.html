@@ -1,20 +1,26 @@
 {{> header}}
 
-<h1>{{title}}</h1>
-<time>{{formatDate date}}</time>
+<h2>{{title}}</h2>
+<p class="date">Added {{formatDate date}}</p>
 
-<a href="{{this.contentURLs.[0]}}">
-	<img alt="{{title}}" src="../../media/posts/{{this.image}}">
-</a>
+<div class="post">
+	<a href="{{this.contentURLs.[0]}}">
+		<img alt="{{title}}" src="../../media/posts/{{this.image}}">
+	</a>
 
-<div>
-{{{contents}}}
-</div>
+	{{{contents}}}
 
-<div>
+	<!--
+	<ul class="tags">
+	{{#each this.tags}}
+		<li>{{this}}</li>
+	{{/each}}
+	</ul>
+	-->
+
 	<p>
-		originally published {{formatDate this.contentDate}}
-		by {{this.contentAuthor}}
+		Originally published {{formatDate this.contentDate}}
+		by {{this.contentAuthor}}:
 	</p>
 
 	<ul>

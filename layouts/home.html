@@ -2,23 +2,24 @@
 
 {{#each this.posts}}
 
-	<hr>
-	<div>
+	<div class="post">
 		<a href="{{this.path}}">
 			<img alt="{{this.title}}" src="./media/posts/{{this.image}}">
 		</a>
-		<h3><a href="{{this.path}}">{{this.title}}</a></h3>
-		<p>{{formatDate this.date}}</p>
+		<h2><a href="{{this.path}}">{{this.title}}</a></h2>
+		<p class="date">Added {{formatDate this.date}}</p>
 
-		<ul>
+		<!--
+		<ul class="tags">
 		{{#each this.tags}}
 			<li>{{this}}</li>
 		{{/each}}
 		</ul>
+		-->
 
 		<p>
-			originally published {{formatDate this.contentDate}}
-			by {{this.contentAuthor}}
+			Originally published {{formatDate this.contentDate}}
+			by {{this.contentAuthor}}:
 		</p>
 
 		<ul>
