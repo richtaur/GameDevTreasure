@@ -3,7 +3,9 @@
 <h1>{{title}}</h1>
 <time>{{formatDate date}}</time>
 
-<img alt="{{title}}" src="../../media/posts/{{this.image}}">
+<a href="{{this.contentURLs.[0]}}">
+	<img alt="{{title}}" src="../../media/posts/{{this.image}}">
+</a>
 
 <div>
 {{{contents}}}

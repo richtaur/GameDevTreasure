@@ -4,7 +4,9 @@
 
 	<hr>
 	<div>
-		<img alt="{{this.title}}" src="./media/posts/{{this.image}}">
+		<a href="{{this.path}}">
+			<img alt="{{this.title}}" src="./media/posts/{{this.image}}">
+		</a>
 		<h3><a href="{{this.path}}">{{this.title}}</a></h3>
 		<p>{{formatDate this.date}}</p>
 
