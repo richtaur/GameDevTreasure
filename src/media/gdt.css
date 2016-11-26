@@ -32,10 +32,15 @@ h1 {
 	font-size: 75%;
 }
 
+.subtitle {
+	margin-bottom: 1em;
+}
+
 .post {
 	border: 1px solid red;
 	margin-bottom: 2em;
 	text-align: left;
+	min-height: 200px;
 }
 
 .post img {
@@ -47,6 +52,10 @@ h1 {
 	margin-bottom: 1em;
 }
 
+#post-contents {
+	margin-bottom: 1em;
+}
+
 .tags {
 	margin-bottom: 1em;
 }
@@ -55,5 +64,28 @@ h1 {
 	display: inline;
 }
 
+.urls-header {
+	margin-bottom: 1em;
+}
+
+.urls {
+}
+
+#nav {
+	border: 1px solid red;
+	clear: both;
+	margin-bottom: 1em;
+	min-height: 1em;
+}
+
+#nav .prev {
+	float: left;
+}
+
+#nav .next {
+	float: right;
+}
+
 #footer {
+	border: 1px solid red;
 }

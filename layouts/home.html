@@ -17,14 +17,14 @@
 		</ul>
 		-->
 
-		<p>
-			Originally published {{formatDate this.contentDate}}
+		<p class="urls-header">
+			Sourced posted {{formatDate this.contentDate}}
 			by {{this.contentAuthor}}:
 		</p>
 
-		<ul>
+		<ul class="urls">
 		{{#each this.contentURLs}}
-			<li><a href="{{this}}">{{this}}</a></li>
+			<li><a href="{{this}}">{{extractDomain this}}</a></li>
 		{{/each}}
 		</ul>
 

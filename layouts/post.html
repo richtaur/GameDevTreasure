@@ -1,14 +1,16 @@
 {{> header}}
 
 <h2>{{title}}</h2>
-<p class="date">Added {{formatDate date}}</p>
+<p class="date subtitle">Added {{formatDate date}}</p>
 
 <div class="post">
 	<a href="{{this.contentURLs.[0]}}">
 		<img alt="{{title}}" src="../../media/posts/{{this.image}}">
 	</a>
 
-	{{{contents}}}
+	<div id="post-contents">
+		{{{contents}}}
+	</div>
 
 	<!--
 	<ul class="tags">
@@ -18,28 +20,30 @@
 	</ul>
 	-->
 
-	<p>
-		Originally published {{formatDate this.contentDate}}
+	<p class="urls-header">
+		Source posted {{formatDate this.contentDate}}
 		by {{this.contentAuthor}}:
 	</p>
 
-	<ul>
+	<ul class="urls">
 	{{#each this.contentURLs}}
-		<li><a href="{{this}}">{{this}}</a></li>
+		<li><a href="{{this}}">{{extractDomain this}}</a></li>
 	{{/each}}
 	</ul>
 </div>
 
-{{#if this.previous.path}}
-<p>
-	<a href="../../{{this.previous.path}}">Previous: {{this.previous.title}}</a>
-</p>
-{{/if}}
+<div id="nav">
+	{{#if this.previous.path}}
+	<p class="prev">
+		<a href="../../{{this.previous.path}}">&lt; {{this.previous.title}}</a>
+	</p>
+	{{/if}}
 
-{{#if this.next.path }}
-<p>
-	<a href="../../{{this.next.path}}">Next: {{this.next.title}}</a>
-</p>
-{{/if}}
+	{{#if this.next.path }}
+	<p class="next">
+		<a href="../../{{this.next.path}}">{{this.next.title}} &gt;</a>
+	</p>
+	{{/if}}
+</div>
 
 {{> footer}}

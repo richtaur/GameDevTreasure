@@ -9,6 +9,15 @@ var fs = require("fs");
 
 const URL = "http://www.gamedevtreasure.com";
 
+// Helper: extractDomain
+handlebars.registerHelper("extractDomain", function (url) {
+	if (url.indexOf("://") > -1) {
+		return url.split("/")[2];
+	} else {
+		return url.split("/")[0];
+	}
+});
+
 // Helper: formatDate
 handlebars.registerHelper("formatDate", function (date) {
 	var mom = moment(date);

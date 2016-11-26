@@ -2,7 +2,7 @@
 title: The Five Rules Of Australia's Most Successful Game Creator
 date: 2016-11-26
 image: five-rules.jpg
-tags: [article, production]
+tags: [article, list, production]
 layout: post.html
 
 contentAuthor: Mark Serrels
