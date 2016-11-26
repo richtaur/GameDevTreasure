@@ -26,6 +26,7 @@ a:hover {
 }
 
 body {
+	background: rgb(109, 194, 202); /* teal */
 	color: rgb(20, 12, 28); /* black */
 	text-align: center;
 }
@@ -122,5 +123,32 @@ div.post .date {
 }
 
 #footer {
-	border: 1px solid red;
+	height: 300px;
+}
+
+#island {
+	background: url(/media/images/island.png);
+	margin: auto;
+	position: relative;
+	width: 500px;
+	height: 300px;
+	z-index: 2;
+}
+
+#water {
+	background: rgb(89, 125, 206); /* blue */
+	color: rgb(48, 52, 109); /* dark blue */
+	padding-top: 148px;
+	padding-bottom: 2em;
+	position: relative;
+	top: -112px;
+	z-index: 1;
+}
+
+#water a {
+	color: rgb(48, 52, 109); /* dark blue */
+}
+
+#water a:hover {
+	color: rgb(20, 12, 28); /* black */
 }
