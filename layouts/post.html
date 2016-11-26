@@ -1,6 +1,6 @@
 {{> header}}
 
-<h2>{{title}}</h2>
+<h2 class="post">{{title}}</h2>
 <p class="date subtitle">Added {{formatDate date}}</p>
 
 <div class="post">
@@ -21,8 +21,8 @@
 	-->
 
 	<p class="urls-header">
-		Source posted {{formatDate this.contentDate}}
-		by {{this.contentAuthor}}:
+		by <strong>{{this.contentAuthor}}</strong>
+		on {{formatDate this.contentDate}}:
 	</p>
 
 	<ul class="urls">
