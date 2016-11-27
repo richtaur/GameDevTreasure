@@ -8,8 +8,7 @@ html, body, h1, h2, p, ul, li {
 }
 
 h1, h2 {
-	font-family: "Merriweather", serif;
-	font-family: 'Bungee', cursive;
+	font-family: "Bungee", cursive;
 }
 
 h2 {
@@ -27,16 +26,38 @@ a:hover {
 
 body {
 	background: rgb(109, 194, 202); /* teal */
+	background-image: url(/media/images/clouds.png);
+	background-repeat: repeat-x;
 	color: rgb(20, 12, 28); /* black */
 	text-align: center;
 }
 
 #header {
-	margin-bottom: 2em;
+	margin: 2em auto;
+	width: 1000px;
+}
+
+#header p a {
+	color: rgb(48, 52, 109); /* dark blue */
+}
+
+#header p a:hover {
+	color: rgb(20, 12, 28); /* black */
 }
 
 h1 {
 	margin-bottom: 1em;
+
+	background: url(/media/images/mimic.png) right center no-repeat;
+	height: 200px;
+}
+
+h1 a {
+	background: url(/media/images/title.png);
+	display: block;
+	text-indent: -9999em;
+	width: 750px;
+	height: 200px;
 }
 
 #contents {
