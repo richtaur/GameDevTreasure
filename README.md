@@ -6,5 +6,5 @@ The best articles and videos about game development, curated by obsessive indie 
 
 Runs on [Metalsmith](http://www.metalsmith.io/).
 
-http://www.gamedevtreasure.com
-[@GameDevTreasure](https://twitter.com/GameDevTreasure)
+* [@GameDevTreasure](https://twitter.com/GameDevTreasure)
+* http://www.gamedevtreasure.com
