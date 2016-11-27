@@ -10,4 +10,4 @@ contentDate: 2012-05-24
 contentURLs: [https://www.youtube.com/watch?v=Fy0aCDmgnxg]
 ---
 
-An indispensable guide for measuring the depth of player decisions made in a game design.
+A valuable, beat-by-beat walkthrough of taking a dull game and "juicing" it up with tweens, scaling, screenshake, and more.
