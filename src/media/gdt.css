@@ -153,18 +153,18 @@ div.post .date {
 	background: url(/media/images/island.png);
 	margin: auto;
 	position: relative;
-	width: 500px;
-	height: 300px;
+	width: 700px;
+	height: 400px;
 	z-index: 2;
 }
 
 #water {
 	background: rgb(89, 125, 206); /* blue */
 	color: rgb(48, 52, 109); /* dark blue */
-	padding-top: 148px;
+	padding-top: 160px;
 	padding-bottom: 2em;
 	position: relative;
-	top: -112px;
+	top: -146px;
 	z-index: 1;
 }
 
