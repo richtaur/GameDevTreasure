@@ -1,6 +1,6 @@
 ---
 title: Evaluating Game Mechanics For Depth
-date: 2016-11-24
+date: 2016-11-20
 image: evaluating-game-mechanics-for-depth.jpg
 tags: [article, design]
 layout: post.html

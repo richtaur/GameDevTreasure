@@ -1,6 +1,6 @@
 ---
 title: Juice It or Lose It
-date: 2016-11-23
+date: 2016-11-22
 image: juice-it-or-lose-it.jpg
 tags: [video, polish]
 layout: post.html

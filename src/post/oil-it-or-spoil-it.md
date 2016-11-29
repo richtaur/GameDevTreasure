@@ -1,6 +1,6 @@
 ---
 title: Oil It or Spoil It
-date: 2016-11-27
+date: 2016-11-29
 image: oil-it-or-spoil-it.jpg
 tags: [article, design]
 layout: post.html
