@@ -10,4 +10,4 @@ contentDate: 2015-03-02
 contentURLs: [https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub]
 ---
 
-A staggeringly thorough examination of the use of cameras in 2d games, from classics to modern games.
+A staggeringly thorough examination of the use of cameras in 2d games, from the classic to the modern era.

@@ -10,4 +10,4 @@ contentDate: 2013-12-16
 contentURLs: [https://www.youtube.com/watch?v=AJdEqssNZ-U]
 ---
 
-A step-by-step guide on making a simple 2d-side-scrolling platformer more satisfying to play.
+A step-by-step guide on making a simple 2d-side-scrolling platformer game more satisfying to play.
