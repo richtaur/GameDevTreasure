@@ -16,6 +16,7 @@
 			<updated>{{formatDateRSS this.date}}</updated>
 			<id>{{link this.path}}</id>
 			<content type="html">{{this.contents}}</content>
+			<media:thumbnail url="{{link this.image}}" width="356" height="200" xmlns:media="http://search.yahoo.com/mrss/"/>
 		</entry>
 	{{/each}}
 </feed>
