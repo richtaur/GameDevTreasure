@@ -30,6 +30,10 @@ handlebars.registerHelper("formatDateRSS", function (date) {
 	return mom.format("Y-MM-DDTHH:mm:ssZ");
 });
 
+// Helper: image
+handlebars.registerHelper("image", function (path) {
+	return URL + "media/posts/" + path;
+});
 
 // Helper: link
 handlebars.registerHelper("link", function (path) {
