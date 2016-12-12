@@ -12,7 +12,7 @@
 	{{#each this.posts}}
 		<entry>
 			<title>{{this.title}}</title>
-			<link href="{{link this.path}}"/>
+			<link href="{{this.contentURLs.[0]}}"/>
 			<updated>{{formatDateRSS this.date}}</updated>
 			<id>{{link this.path}}</id>
 			<content type="html">
