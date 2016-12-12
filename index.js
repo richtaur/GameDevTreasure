@@ -51,7 +51,7 @@ handlebars.registerPartial("footer", footerContents)
 Metalsmith(__dirname)
 	.metadata({
 		siteName: "Game Dev Treasure",
-		description: "The best articles and videos about game development, curated by obsessive indie game developer Matt Hackett.",
+		description: "Valuable articles and videos about game development, handpicked by obsessive indie game developer Matt Hackett.",
 		url: URL,
 		date: new Date()
 	})
