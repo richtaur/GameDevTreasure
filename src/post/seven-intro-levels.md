@@ -1,6 +1,6 @@
 ---
 title: 7 introductory levels that all game developers should study
-date: 2018-02-28
+date: 2017-02-28
 image: seven-intro-levels.jpg
 tags: [article, esign]
 layout: post.html
