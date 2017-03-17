@@ -1,6 +1,6 @@
 ---
 title: Behavioral Game Design
-date: 2018-03-17
+date: 2017-03-17
 image: behavioral-game-design.jpg
 tags: [article, design]
 layout: post.html
