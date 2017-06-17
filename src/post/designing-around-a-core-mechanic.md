@@ -7,7 +7,7 @@ layout: post.html
 
 contentAuthor: Charmie Kim
 contentDate: 2012-07-07
-contentURLs: [https://web.archive.org/web/20150417192059/http://www.funstormgames.com/blog/2012/06/designing-around-a-core-mechanic/]
+contentURLs: [https://docs.google.com/document/d/1guLitjYuxuWU_8xxlGqFjGjDISUySGzLfwXHyiHTH5Y/pub, https://web.archive.org/web/20150417192059/http://www.funstormgames.com/blog/2012/06/designing-around-a-core-mechanic/]
 ---
 
 An introduction to a "core diagram" which helps describe a game's design in simple terms.
