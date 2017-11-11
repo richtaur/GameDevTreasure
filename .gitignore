@@ -1,4 +1,5 @@
 .DS_Store
 build/
+drafts
 node_modules/
 src/media/posts/_sources/
