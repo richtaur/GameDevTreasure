@@ -13,7 +13,7 @@ deploy:
 		--size-only \
 		--acl public-read \
 		--delete \
-		--profile matthackedit \
+		--profile richtaur \
 		--region us-west-2
 
 deploy-all:
@@ -21,5 +21,5 @@ deploy-all:
 		--cache-control max-age=86400 \
 		--acl public-read \
 		--delete \
-		--profile matthackedit \
+		--profile richtaur \
 		--region us-west-2
