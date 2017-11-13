@@ -27,7 +27,7 @@ a:hover {
 
 body {
 	background: rgb(109, 194, 202); /* teal */
-	background-image: url(/media/images/clouds.png);
+	background-image: url(./images/clouds.png);
 	background-repeat: repeat-x;
 	color: rgb(20, 12, 28); /* black */
 	text-align: center;
@@ -49,12 +49,12 @@ body {
 h1 {
 	margin-bottom: 1em;
 
-	background: url(/media/images/mimic.png) right center no-repeat;
+	background: url(./images/mimic.png) right center no-repeat;
 	height: 200px;
 }
 
 h1 a {
-	background: url(/media/images/title.png);
+	background: url(./images/title.png);
 	display: block;
 	text-indent: -9999em;
 	width: 750px;
@@ -150,7 +150,7 @@ div.post .date {
 }
 
 #island {
-	background: url(/media/images/island.png);
+	background: url(./images/island.png);
 	margin: auto;
 	position: relative;
 	width: 700px;
