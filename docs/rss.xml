@@ -3,7 +3,7 @@
 	<title>Game Dev Treasure</title>
 	<link href="http://www.gamedevtreasure.com/rss.xml" rel="self"/>
 	<link href="http://www.gamedevtreasure.com/"/>
-	<updated>2017-11-13T12:38:18-08:00</updated>
+	<updated>2017-11-13T12:40:09-08:00</updated>
 	<id>http://www.gamedevtreasure.com/</id>
 	<author>
 		<name>Matt Hackett</name>
@@ -224,7 +224,7 @@
 
 &lt;div class&#x3D;&quot;post&quot;&gt;
 	&lt;a href&#x3D;&quot;http://www.gamasutra.com/view/feature/185676/the_aesthetics_of_game_art_and_.php&quot;&gt;
-		&lt;img alt&#x3D;&quot;The Aesthetics of Game Art and Game Design&quot; src&#x3D;&quot;/media/posts/aesthetics-of-game-art.jpg&quot;&gt;
+		&lt;img alt&#x3D;&quot;The Aesthetics of Game Art and Game Design&quot; src&#x3D;&quot;../../media/posts/aesthetics-of-game-art.jpg&quot;&gt;
 	&lt;/a&gt;
 	&lt;h2&gt;&lt;a href&#x3D;&quot;http://www.gamasutra.com/view/feature/185676/the_aesthetics_of_game_art_and_.php&quot;&gt;The Aesthetics of Game Art and Game Design&lt;/a&gt;&lt;/h2&gt;
 	&lt;p class&#x3D;&quot;date&quot;&gt;Added Dec 3, 2016&lt;/p&gt;
