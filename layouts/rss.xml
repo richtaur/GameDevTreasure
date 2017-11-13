@@ -7,7 +7,7 @@
 	<id>{{url}}</id>
 	<author>
 		<name>Matt Hackett</name>
-		<email>matt@lostdecadegames.com</email>
+		<email>richtaur@gmail.com</email>
 	</author>
 	{{#each this.posts}}
 		<entry>
