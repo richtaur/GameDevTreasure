@@ -56,7 +56,7 @@ Metalsmith(__dirname)
 		date: new Date()
 	})
 	.source("./src")
-	.destination("./build")
+	.destination("./docs")
 	.clean(false)
 	.use(collections({
 		posts: {
