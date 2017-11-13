@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Game Dev Treasure</title>
+	<link href="http://www.gamedevtreasure.com/rss.xml" rel="self"/>
+	<link href="http://www.gamedevtreasure.com/"/>
+	<updated>2017-11-13T11:28:54-08:00</updated>
+	<id>http://www.gamedevtreasure.com/</id>
+	<author>
+		<name>Matt Hackett</name>
+		<email>matt@lostdecadegames.com</email>
+	</author>
+		<entry>
+			<title>Most players won&#x27;t finish your game - and that&#x27;s not a bad thing!</title>
+			<link href="http://www.gamedevtreasure.com/post/most-players-wont-finish"/>
+			<updated>2017-03-29T17:00:00-07:00</updated>
+			<id>http://www.gamedevtreasure.com/post/most-players-wont-finish</id>
+			<content type="html">
+				&lt;p&gt;Most players won&amp;#39;t finish the games we work so hard on, but this article shows us why that&amp;#39;s not always a negative.&lt;/p&gt;
+
+				&lt;img alt="Most players won&#x27;t finish your game - and that&#x27;s not a bad thing!" src="http://www.gamedevtreasure.com/media/posts/most-players-wont-finish.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>Sequelitis - Mega Man Classic vs. Mega Man X</title>
+			<link href="http://www.gamedevtreasure.com/post/sequelitis-mega-man"/>
+			<updated>2017-03-19T17:00:00-07:00</updated>
+			<id>http://www.gamedevtreasure.com/post/sequelitis-mega-man</id>
+			<content type="html">
+				&lt;p&gt;An entertaining analysis of how games can guide players without needing to interrupt the gameplay.&lt;/p&gt;
+
+				&lt;img alt="Sequelitis - Mega Man Classic vs. Mega Man X" src="http://www.gamedevtreasure.com/media/posts/sequelitis-mega-man.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>Behavioral Game Design</title>
+			<link href="http://www.gamedevtreasure.com/post/behavioral-game-design"/>
+			<updated>2017-03-16T17:00:00-07:00</updated>
+			<id>http://www.gamedevtreasure.com/post/behavioral-game-design</id>
+			<content type="html">
+				&lt;p&gt;An informative essay that deftly walks the tricky line between game design and psychology.&lt;/p&gt;
+
+				&lt;img alt="Behavioral Game Design" src="http://www.gamedevtreasure.com/media/posts/behavioral-game-design.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>Designing Around a Core Mechanic</title>
+			<link href="http://www.gamedevtreasure.com/post/designing-around-a-core-mechanic"/>
+			<updated>2017-03-07T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/designing-around-a-core-mechanic</id>
+			<content type="html">
+				&lt;p&gt;An introduction to a &amp;quot;core diagram&amp;quot; which helps describe a game&amp;#39;s design in simple terms.&lt;/p&gt;
+
+				&lt;img alt="Designing Around a Core Mechanic" src="http://www.gamedevtreasure.com/media/posts/designing-around-a-core-mechanic.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>7 introductory levels that all game developers should study</title>
+			<link href="http://www.gamedevtreasure.com/post/seven-intro-levels"/>
+			<updated>2017-02-27T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/seven-intro-levels</id>
+			<content type="html">
+				&lt;p&gt;Terrific examples of how the first level in a game can invisibly teach important mechanics while avoiding common pitfalls.&lt;/p&gt;
+
+				&lt;img alt="7 introductory levels that all game developers should study" src="http://www.gamedevtreasure.com/media/posts/seven-intro-levels.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>The Last Guardian and the Language of Games</title>
+			<link href="http://www.gamedevtreasure.com/post/last-guardian-language"/>
+			<updated>2017-02-12T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/last-guardian-language</id>
+			<content type="html">
+				&lt;p&gt;A thoughtful examination of how games can use mechanics to express emotion and get ideas across without tutorials.&lt;/p&gt;
+
+				&lt;img alt="The Last Guardian and the Language of Games" src="http://www.gamedevtreasure.com/media/posts/last-guardian-language.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>The Perils of Bottom-up Game Design</title>
+			<link href="http://www.gamedevtreasure.com/post/perils-bottom-up"/>
+			<updated>2017-01-29T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/perils-bottom-up</id>
+			<content type="html">
+				&lt;p&gt;An interesting perspective on a common design approach that many developers use to their game&amp;#39;s detriment.&lt;/p&gt;
+
+				&lt;img alt="The Perils of Bottom-up Game Design" src="http://www.gamedevtreasure.com/media/posts/perils-bottom-up.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>How to Choose a Theme for Your Game</title>
+			<link href="http://www.gamedevtreasure.com/post/how-to-choose-a-theme"/>
+			<updated>2017-01-25T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/how-to-choose-a-theme</id>
+			<content type="html">
+				&lt;p&gt;Plants vs. Zombies creator George Fan offers four questions to help find the perfect theme for your game.&lt;/p&gt;
+
+				&lt;img alt="How to Choose a Theme for Your Game" src="http://www.gamedevtreasure.com/media/posts/how-to-choose-a-theme.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>A Game Studio Culture Dictionary</title>
+			<link href="http://www.gamedevtreasure.com/post/culture-dictionary"/>
+			<updated>2017-01-22T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/culture-dictionary</id>
+			<content type="html">
+				&lt;p&gt;Not a traditional essay, but a rare peek into every corner of the games industry via cultural insights.&lt;/p&gt;
+
+				&lt;img alt="A Game Studio Culture Dictionary" src="http://www.gamedevtreasure.com/media/posts/culture-dictionary.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>Postmortem: McMillen and Himsl&#x27;s The Binding of Isaac</title>
+			<link href="http://www.gamedevtreasure.com/post/binding-of-isaac-postmortem"/>
+			<updated>2017-01-14T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/binding-of-isaac-postmortem</id>
+			<content type="html">
+				&lt;p&gt;Valuable insights from a huge hit that was never meant to be one, in the classic Game Developer Magazine format.&lt;/p&gt;
+
+				&lt;img alt="Postmortem: McMillen and Himsl&#x27;s The Binding of Isaac" src="http://www.gamedevtreasure.com/media/posts/binding-of-isaac-postmortem.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>Visualizing the Creative Process</title>
+			<link href="http://www.gamedevtreasure.com/post/visualizing-creative-process"/>
+			<updated>2017-01-07T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/visualizing-creative-process</id>
+			<content type="html">
+				&lt;p&gt;A beacon of light to help guide developers through the nebulous creative process involved when designing new games.&lt;/p&gt;
+
+				&lt;img alt="Visualizing the Creative Process" src="http://www.gamedevtreasure.com/media/posts/visualizing-creative-process.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>Enemy Design in Link to the Past</title>
+			<link href="http://www.gamedevtreasure.com/post/enemy-design-in-lttp"/>
+			<updated>2016-12-29T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/enemy-design-in-lttp</id>
+			<content type="html">
+				&lt;p&gt;A comprehensive analysis of all behavior designs in the classic masterpiece The Legend of Zelda: A Link to the Past.&lt;/p&gt;
+
+				&lt;img alt="Enemy Design in Link to the Past" src="http://www.gamedevtreasure.com/media/posts/enemy-design-in-lttp.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>Finishing a Game</title>
+			<link href="http://www.gamedevtreasure.com/post/finishing-a-game"/>
+			<updated>2016-12-26T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/finishing-a-game</id>
+			<content type="html">
+				&lt;p&gt;This honest, thorough, and motivational guide on shipping games is mandatory reading for any solo game developer.&lt;/p&gt;
+
+				&lt;img alt="Finishing a Game" src="http://www.gamedevtreasure.com/media/posts/finishing-a-game.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>Behavior trees for AI: How they work</title>
+			<link href="http://www.gamedevtreasure.com/post/behavior-trees-for-ai"/>
+			<updated>2016-12-19T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/behavior-trees-for-ai</id>
+			<content type="html">
+				&lt;p&gt;A comprehensive analysis of behavior tree implementations that deftly balances complexity with readability.&lt;/p&gt;
+
+				&lt;img alt="Behavior trees for AI: How they work" src="http://www.gamedevtreasure.com/media/posts/behavior-trees-for-ai.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>6 Game Design Lessons from L. Ron Hubbard</title>
+			<link href="http://www.gamedevtreasure.com/post/scientology"/>
+			<updated>2016-12-14T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/scientology</id>
+			<content type="html">
+				&lt;p&gt;A surprising dissection of one of the most contentious, controversial, and successful games ever designed.&lt;/p&gt;
+
+				&lt;img alt="6 Game Design Lessons from L. Ron Hubbard" src="http://www.gamedevtreasure.com/media/posts/scientology.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>Learning From The Masters: Level Design In The Legend Of Zelda</title>
+			<link href="http://www.gamedevtreasure.com/post/level-design-in-zelda"/>
+			<updated>2016-12-10T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/level-design-in-zelda</id>
+			<content type="html">
+				&lt;p&gt;A thorough analysis of the flow through The Legend of Zelda and its masterful execution of nonlinear gameplay.&lt;/p&gt;
+
+				&lt;img alt="Learning From The Masters: Level Design In The Legend Of Zelda" src="http://www.gamedevtreasure.com/media/posts/level-design-in-zelda.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>How to Tell When You Gave Artists Too Much Control Over Design</title>
+			<link href="http://www.gamedevtreasure.com/post/artists-too-much-control"/>
+			<updated>2016-12-07T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/artists-too-much-control</id>
+			<content type="html">
+				&lt;p&gt;Insightful observations of how a game&amp;#39;s artistic needs can negatively impact its core design.&lt;/p&gt;
+
+				&lt;img alt="How to Tell When You Gave Artists Too Much Control Over Design" src="http://www.gamedevtreasure.com/media/posts/artists-too-much-control.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>The Aesthetics of Game Art and Game Design</title>
+			<link href="http://www.gamedevtreasure.com/post/aesthetics-of-game-art-and-game-design"/>
+			<updated>2016-12-03T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/aesthetics-of-game-art-and-game-design</id>
+			<content type="html">
+				&lt;p&gt;An important exploration of the fundamental shapes and patterns that make up a game, and the inherent meaning they have to players.&lt;/p&gt;
+
+				&lt;img alt="The Aesthetics of Game Art and Game Design" src="http://www.gamedevtreasure.com/media/posts/aesthetics-of-game-art.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>Building Tight Game Systems of Cause and Effect</title>
+			<link href="http://www.gamedevtreasure.com/post/tight-game-systems"/>
+			<updated>2016-12-01T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/tight-game-systems</id>
+			<content type="html">
+				&lt;p&gt;A list of game design tools used to tweak systems of cause and effect, flush with applied examples.&lt;/p&gt;
+
+				&lt;img alt="Building Tight Game Systems of Cause and Effect" src="http://www.gamedevtreasure.com/media/posts/tight-game-systems.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>The Strange Attractor in Video Game Design</title>
+			<link href="http://www.gamedevtreasure.com/post/strange-attractor"/>
+			<updated>2016-11-29T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/strange-attractor</id>
+			<content type="html">
+				&lt;p&gt;An explanation of how to make a game concept stand out and why it&amp;#39;s so important that it does.&lt;/p&gt;
+
+				&lt;img alt="The Strange Attractor in Video Game Design" src="http://www.gamedevtreasure.com/media/posts/strange-attractor.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>Oil It or Spoil It</title>
+			<link href="http://www.gamedevtreasure.com/post/oil-it-or-spoil-it"/>
+			<updated>2016-11-28T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/oil-it-or-spoil-it</id>
+			<content type="html">
+				&lt;p&gt;An extension of &amp;quot;Juice It or Lose It&amp;quot;, but instead of juice, offers tips on removing pain points from gameplay.&lt;/p&gt;
+
+				&lt;img alt="Oil It or Spoil It" src="http://www.gamedevtreasure.com/media/posts/oil-it-or-spoil-it.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>What Makes an Indie Hit?: How to Choose the Right Design</title>
+			<link href="http://www.gamedevtreasure.com/post/what-makes-an-indie-hit"/>
+			<updated>2016-11-27T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/what-makes-an-indie-hit</id>
+			<content type="html">
+				&lt;p&gt;A sobering look at the design considerations and &amp;quot;hooks&amp;quot; a game needs to capture an audience in a crowded industry.&lt;/p&gt;
+
+				&lt;img alt="What Makes an Indie Hit?: How to Choose the Right Design" src="http://www.gamedevtreasure.com/media/posts/what-makes-an-indie-hit.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>Scroll Back: The Theory and Practice of Cameras in Side-Scrollers</title>
+			<link href="http://www.gamedevtreasure.com/post/scroll-back"/>
+			<updated>2016-11-26T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/scroll-back</id>
+			<content type="html">
+				&lt;p&gt;A staggeringly thorough examination of the use of cameras in 2d games, from the classic to the modern era.&lt;/p&gt;
+
+				&lt;img alt="Scroll Back: The Theory and Practice of Cameras in Side-Scrollers" src="http://www.gamedevtreasure.com/media/posts/scroll-back.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>The Art of Screenshake</title>
+			<link href="http://www.gamedevtreasure.com/post/the-art-of-screenshake"/>
+			<updated>2016-11-25T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/the-art-of-screenshake</id>
+			<content type="html">
+				&lt;p&gt;A step-by-step guide on making a simple 2d-side-scrolling platformer game more satisfying to play.&lt;/p&gt;
+
+				&lt;img alt="The Art of Screenshake" src="http://www.gamedevtreasure.com/media/posts/the-art-of-screenshake.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>How Zelda Gets Lock and Key Puzzles Right</title>
+			<link href="http://www.gamedevtreasure.com/post/how-zelda-gets-lock-and-key-puzzles-right"/>
+			<updated>2016-11-24T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/how-zelda-gets-lock-and-key-puzzles-right</id>
+			<content type="html">
+				&lt;p&gt;A breezy read about important take-aways from classic Zelda designs.&lt;/p&gt;
+
+				&lt;img alt="How Zelda Gets Lock and Key Puzzles Right" src="http://www.gamedevtreasure.com/media/posts/how-zelda-gets-lock-and-key-puzzles-right.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>There and Back Again - A Metroidvania Tale</title>
+			<link href="http://www.gamedevtreasure.com/post/there-and-back-again"/>
+			<updated>2016-11-23T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/there-and-back-again</id>
+			<content type="html">
+				&lt;p&gt;A fascinating look behind the development of Castlevania: Symphony of the Night, rich with insights from director Koji Igarashi.&lt;/p&gt;
+
+				&lt;img alt="There and Back Again - A Metroidvania Tale" src="http://www.gamedevtreasure.com/media/posts/there-and-back-again.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>Sequelitis - Super Castlevania 4</title>
+			<link href="http://www.gamedevtreasure.com/post/sequelitis-super-castlevania-4"/>
+			<updated>2016-11-22T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/sequelitis-super-castlevania-4</id>
+			<content type="html">
+				&lt;p&gt;An entertaining explanation of the design mistakes that can cause a sequel to be worse than its predecessor.&lt;/p&gt;
+
+				&lt;img alt="Sequelitis - Super Castlevania 4" src="http://www.gamedevtreasure.com/media/posts/sequelitis-super-castlevania-4.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>Juice It or Lose It</title>
+			<link href="http://www.gamedevtreasure.com/post/juice-it-or-lose-it"/>
+			<updated>2016-11-21T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/juice-it-or-lose-it</id>
+			<content type="html">
+				&lt;p&gt;A valuable, beat-by-beat walkthrough of taking a dull game and &amp;quot;juicing&amp;quot; it up with tweens, scaling, screenshake, and more.&lt;/p&gt;
+
+				&lt;img alt="Juice It or Lose It" src="http://www.gamedevtreasure.com/media/posts/juice-it-or-lose-it.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>The Invisible Hand of Super Metroid</title>
+			<link href="http://www.gamedevtreasure.com/post/the-invisible-hand-of-super-metroid"/>
+			<updated>2016-11-20T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/the-invisible-hand-of-super-metroid</id>
+			<content type="html">
+				&lt;p&gt;A thorough analysis of the subtle yet powerful design that guides players through one of the most influential and beloved games ever made.&lt;/p&gt;
+
+				&lt;img alt="The Invisible Hand of Super Metroid" src="http://www.gamedevtreasure.com/media/posts/the-invisible-hand-of-super-metroid.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+		<entry>
+			<title>Evaluating Game Mechanics For Depth</title>
+			<link href="http://www.gamedevtreasure.com/post/evaluating-game-mechanics-for-depth"/>
+			<updated>2016-11-19T16:00:00-08:00</updated>
+			<id>http://www.gamedevtreasure.com/post/evaluating-game-mechanics-for-depth</id>
+			<content type="html">
+				&lt;p&gt;An indispensable guide for measuring the depth of player decisions made in a game design.&lt;/p&gt;
+
+				&lt;img alt="Evaluating Game Mechanics For Depth" src="http://www.gamedevtreasure.com/media/posts/evaluating-game-mechanics-for-depth.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
+</feed>
