@@ -3,7 +3,7 @@
 	<title>Game Dev Treasure</title>
 	<link href="http://www.gamedevtreasure.com/rss.xml" rel="self"/>
 	<link href="http://www.gamedevtreasure.com/"/>
-	<updated>2017-11-13T12:35:52-08:00</updated>
+	<updated>2017-11-13T12:38:18-08:00</updated>
 	<id>http://www.gamedevtreasure.com/</id>
 	<author>
 		<name>Matt Hackett</name>
@@ -208,9 +208,9 @@
 		&lt;meta charset&#x3D;&quot;UTF-8&quot;&gt;
 		&lt;title&gt;Game Dev Treasure&lt;/title&gt;
 		&lt;meta name&#x3D;&quot;description&quot; content&#x3D;&quot;Shiny articles and videos about game development, handpicked by obsessive game developer Matt Hackett.&quot;&gt;
-		&lt;link href&#x3D;&quot;../../media/gdt.css&quot; rel&#x3D;&quot;stylesheet&quot;&gt;
+		&lt;link href&#x3D;&quot;../..//media/gdt.css&quot; rel&#x3D;&quot;stylesheet&quot;&gt;
 		&lt;link rel&#x3D;&quot;alternate&quot; type&#x3D;&quot;application/rss+xml&quot; title&#x3D;&quot;RSS feed for Game Dev Treasure&quot; href&#x3D;&quot;http://www.gamedevtreasure.com/rss.xml&quot;&gt;
-		&lt;link rel&#x3D;&quot;icon&quot; href&#x3D;&quot;/favicon.ico&quot;&gt;
+		&lt;link rel&#x3D;&quot;icon&quot; href&#x3D;&quot;../../favicon.ico&quot;&gt;
 		&lt;link href&#x3D;&quot;https://fonts.googleapis.com/css?family&#x3D;Merriweather:400,700|Open+Sans:400,700&quot; rel&#x3D;&quot;stylesheet&quot;&gt;
 	&lt;/head&gt;
 	&lt;body&gt;
