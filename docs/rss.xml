@@ -3,7 +3,7 @@
 	<title>Game Dev Treasure</title>
 	<link href="http://www.gamedevtreasure.com/rss.xml" rel="self"/>
 	<link href="http://www.gamedevtreasure.com/"/>
-	<updated>2017-11-13T12:42:25-08:00</updated>
+	<updated>2017-11-13T12:44:52-08:00</updated>
 	<id>http://www.gamedevtreasure.com/</id>
 	<author>
 		<name>Matt Hackett</name>
@@ -267,7 +267,7 @@
 		&lt;div id&#x3D;&quot;footer&quot;&gt;
 			&lt;div id&#x3D;&quot;island&quot;&gt;&lt;/div&gt;
 			&lt;div id&#x3D;&quot;water&quot;&gt;
-				&lt;a href&#x3D;&quot;/rss.xml&quot;&gt;RSS&lt;/a&gt; &amp;bull;
+				&lt;a href&#x3D;&quot;../../rss.xml&quot;&gt;RSS&lt;/a&gt; &amp;bull;
 				&lt;a href&#x3D;&quot;https://twitter.com/GameDevTreasure&quot;&gt;Twitter&lt;/a&gt; &amp;bull;
 				&lt;a href&#x3D;&quot;https://github.com/richtaur/GameDevTreasure&quot;&gt;Source&lt;/a&gt; &amp;bull;
 				&lt;a href&#x3D;&quot;http://twitter.com/richtaur&quot;&gt;Contact&lt;/a&gt; &amp;bull;
