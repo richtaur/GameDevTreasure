@@ -10,4 +10,4 @@ contentDate: 2018-01-25
 contentURLs: [https://www.youtube.com/watch?v=apfNODay1_s]
 ---
 
-An important exploration of the fundamental shapes and patterns that make up a game, and the inherent meaning they have to players.
+Two clever brothers give an insightful talk on working smartly with tight budgets.
