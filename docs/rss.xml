@@ -3,12 +3,23 @@
 	<title>Game Dev Treasure</title>
 	<link href="http://www.gamedevtreasure.com/rss.xml" rel="self"/>
 	<link href="http://www.gamedevtreasure.com/"/>
-	<updated>2017-11-13T12:44:52-08:00</updated>
+	<updated>2018-06-16T10:17:28-07:00</updated>
 	<id>http://www.gamedevtreasure.com/</id>
 	<author>
 		<name>Matt Hackett</name>
 		<email>richtaur@gmail.com</email>
 	</author>
+		<entry>
+			<title>Rogue Legacy Design Postmortem: Budget Development</title>
+			<link href="http://www.gamedevtreasure.com/post/rogue-legacy-budget"/>
+			<updated>2018-06-15T17:00:00-07:00</updated>
+			<id>http://www.gamedevtreasure.com/post/rogue-legacy-budget</id>
+			<content type="html">
+				&lt;p&gt;An important exploration of the fundamental shapes and patterns that make up a game, and the inherent meaning they have to players.&lt;/p&gt;
+
+				&lt;img alt="Rogue Legacy Design Postmortem: Budget Development" src="http://www.gamedevtreasure.com/media/posts/rogue-legacy-budget.jpg" width="364" height="200"&gt;
+			</content>
+		</entry>
 		<entry>
 			<title>Most players won&#x27;t finish your game - and that&#x27;s not a bad thing!</title>
 			<link href="http://www.gamedevtreasure.com/post/most-players-wont-finish"/>
@@ -202,91 +213,7 @@
 			<updated>2016-12-03T16:00:00-08:00</updated>
 			<id>http://www.gamedevtreasure.com/post/aesthetics-of-game-art-and-game-design</id>
 			<content type="html">
-				&lt;!doctype html&gt;
-&lt;html lang&#x3D;&quot;en&quot;&gt;
-	&lt;head&gt;
-		&lt;meta charset&#x3D;&quot;UTF-8&quot;&gt;
-		&lt;title&gt;Game Dev Treasure&lt;/title&gt;
-		&lt;meta name&#x3D;&quot;description&quot; content&#x3D;&quot;Shiny articles and videos about game development, handpicked by obsessive game developer Matt Hackett.&quot;&gt;
-		&lt;link href&#x3D;&quot;../..//media/gdt.css&quot; rel&#x3D;&quot;stylesheet&quot;&gt;
-		&lt;link rel&#x3D;&quot;alternate&quot; type&#x3D;&quot;application/rss+xml&quot; title&#x3D;&quot;RSS feed for Game Dev Treasure&quot; href&#x3D;&quot;http://www.gamedevtreasure.com/rss.xml&quot;&gt;
-		&lt;link rel&#x3D;&quot;icon&quot; href&#x3D;&quot;../../favicon.ico&quot;&gt;
-		&lt;link href&#x3D;&quot;https://fonts.googleapis.com/css?family&#x3D;Merriweather:400,700|Open+Sans:400,700&quot; rel&#x3D;&quot;stylesheet&quot;&gt;
-	&lt;/head&gt;
-	&lt;body&gt;
-
-		&lt;div id&#x3D;&quot;header&quot;&gt;
-			&lt;h1&gt;&lt;a href&#x3D;&quot;../../&quot;&gt;Game Dev Treasure&lt;/a&gt;&lt;/h1&gt;
-			&lt;p&gt;Shiny articles and videos about game development, curated by obsessive game developer &lt;a href&#x3D;&quot;https://twitter.com/richtaur&quot;&gt;Matt Hackett&lt;/a&gt;.&lt;/p&gt;
-		&lt;/div&gt;
-
-		&lt;div id&#x3D;&quot;contents&quot;&gt;
-
-&lt;div class&#x3D;&quot;post&quot;&gt;
-	&lt;a href&#x3D;&quot;http://www.gamasutra.com/view/feature/185676/the_aesthetics_of_game_art_and_.php&quot;&gt;
-		&lt;img alt&#x3D;&quot;The Aesthetics of Game Art and Game Design&quot; src&#x3D;&quot;../../media/posts/aesthetics-of-game-art.jpg&quot;&gt;
-	&lt;/a&gt;
-	&lt;h2&gt;&lt;a href&#x3D;&quot;http://www.gamasutra.com/view/feature/185676/the_aesthetics_of_game_art_and_.php&quot;&gt;The Aesthetics of Game Art and Game Design&lt;/a&gt;&lt;/h2&gt;
-	&lt;p class&#x3D;&quot;date&quot;&gt;Added Dec 3, 2016&lt;/p&gt;
-
-	&lt;div class&#x3D;&quot;post-contents&quot;&gt;
-		&lt;p&gt;An important exploration of the fundamental shapes and patterns that make up a game, and the inherent meaning they have to players.&lt;/p&gt;
-
-	&lt;/div&gt;
-
-	&lt;!--
-	&lt;ul class&#x3D;&quot;tags&quot;&gt;
-		&lt;li&gt;article&lt;/li&gt;
-		&lt;li&gt;design&lt;/li&gt;
-	&lt;/ul&gt;
-	--&gt;
-
-	&lt;p class&#x3D;&quot;urls-header&quot;&gt;
-		by &lt;strong&gt;Chris Solarski&lt;/strong&gt;
-		on Jan 29, 2013:
-	&lt;/p&gt;
-
-	&lt;ul class&#x3D;&quot;urls&quot;&gt;
-		&lt;li&gt;&lt;a href&#x3D;&quot;http://www.gamasutra.com/view/feature/185676/the_aesthetics_of_game_art_and_.php&quot;&gt;www.gamasutra.com&lt;/a&gt;&lt;/li&gt;
-	&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id&#x3D;&quot;nav&quot;&gt;
-	&lt;p class&#x3D;&quot;prev&quot;&gt;
-		&lt;a href&#x3D;&quot;../../post/artists-too-much-control&quot;&gt;&amp;lt; How to Tell When You Gave Artists Too Much Control Over Design&lt;/a&gt;
-	&lt;/p&gt;
-
-	&lt;p class&#x3D;&quot;next&quot;&gt;
-		&lt;a href&#x3D;&quot;../../post/tight-game-systems&quot;&gt;Building Tight Game Systems of Cause and Effect &amp;gt;&lt;/a&gt;
-	&lt;/p&gt;
-&lt;/div&gt;
-
-
-		&lt;/div&gt;
-
-		&lt;div id&#x3D;&quot;footer&quot;&gt;
-			&lt;div id&#x3D;&quot;island&quot;&gt;&lt;/div&gt;
-			&lt;div id&#x3D;&quot;water&quot;&gt;
-				&lt;a href&#x3D;&quot;../../rss.xml&quot;&gt;RSS&lt;/a&gt; &amp;bull;
-				&lt;a href&#x3D;&quot;https://twitter.com/GameDevTreasure&quot;&gt;Twitter&lt;/a&gt; &amp;bull;
-				&lt;a href&#x3D;&quot;https://github.com/richtaur/GameDevTreasure&quot;&gt;Source&lt;/a&gt; &amp;bull;
-				&lt;a href&#x3D;&quot;http://twitter.com/richtaur&quot;&gt;Contact&lt;/a&gt; &amp;bull;
-				v1.3
-			&lt;/div&gt;
-		&lt;/div&gt;
-
-&lt;script&gt;
-  (function(i,s,o,g,r,a,m){i[&#x27;GoogleAnalyticsObject&#x27;]&#x3D;r;i[r]&#x3D;i[r]||function(){
-  (i[r].q&#x3D;i[r].q||[]).push(arguments)},i[r].l&#x3D;1*new Date();a&#x3D;s.createElement(o),
-  m&#x3D;s.getElementsByTagName(o)[0];a.async&#x3D;1;a.src&#x3D;g;m.parentNode.insertBefore(a,m)
-  })(window,document,&#x27;script&#x27;,&#x27;https://www.google-analytics.com/analytics.js&#x27;,&#x27;ga&#x27;);
-
-  ga(&#x27;create&#x27;, &#x27;UA-27284870-3&#x27;, &#x27;auto&#x27;);
-  ga(&#x27;send&#x27;, &#x27;pageview&#x27;);
-&lt;/script&gt;
-
-	&lt;/body&gt;
-&lt;/html&gt;
+				&lt;p&gt;An important exploration of the fundamental shapes and patterns that make up a game, and the inherent meaning they have to players.&lt;/p&gt;
 
 				&lt;img alt="The Aesthetics of Game Art and Game Design" src="http://www.gamedevtreasure.com/media/posts/aesthetics-of-game-art.jpg" width="364" height="200"&gt;
 			</content>
